@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hannah Owolabi
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Solutions Architecturing
-- 💞️ I’m looking to collaborate on Dynamic Web Hosting
+- 💞️ I’m looking to collaborate on Dynamic Web Hosting or any ASW Cloud Architecturing projects.
 - 📫 You can reach me via www.linkedin.com/in/hannahowolabi
