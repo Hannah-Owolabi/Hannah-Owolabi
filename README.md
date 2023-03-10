@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hannah Owolabi
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in DevOps Engineering
 - 🌱 I’m currently learning Solutions Architecture
-- 💞️ I’m looking to collaborate on ASW Cloud Architecture projects.
+- 💞️ I’m looking to collaborate on AWS Cloud Architecture projects.
 - 📫 You can reach me via www.linkedin.com/in/hannahowolabi
